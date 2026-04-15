@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "age": 28,
+    "city": "Mumbai",
+    "skills": ["Python", "Machine Learning"],
+    "contact": {
+      "email": "alice@example.com",
+      "phone": "+91-9876543210"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Rahul Sharma",
+    "age": 32,
+    "city": "Pune",
+    "skills": ["Java", "Spring Boot"],
+    "contact": {
+      "email": "rahul@example.com",
+      "phone": "+91-9123456780"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Sneha Patel",
+    "age": 26,
+    "city": "Bangalore",
+    "skills": ["React", "Node.js"],
+    "contact": {
+      "email": "sneha@example.com",
+      "phone": "+91-9988776655"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Arjun Verma",
+    "age": 30,
+    "city": "Hyderabad",
+    "skills": ["Data Science", "SQL"],
+    "contact": {
+      "email": "arjun@example.com",
+      "phone": "+91-9090909090"
+    }
+  }
+]
