@@ -1,0 +1,14 @@
+hello i am krishna and i am 20year old from bhavanagar currntely doing my internship at Zignuts Technolab i have completed my education in BE. IT.
+
+JSON: 
+
+{
+    "person":{
+        "name": "krishna",
+        "age":20,
+        "city":"bhavanagar",
+        "employement":"Internship",
+        "company":"Zignuts Technolab",
+        "education" : "BE IT" 
+    }
+}
