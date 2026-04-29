@@ -1,0 +1,83 @@
+**Zignuts Technolab** is a global digital product engineering and software development agency that has been operating since 2012. Over the last decade, they have evolved from a boutique development shop into a comprehensive technology partner with a heavy focus on AI-driven solutions.
+
+Below is a detailed breakdown of the company's profile, services, and technical ecosystem as of 2026.
+
+---
+
+## 🏢 Company Overview
+Zignuts Technolab functions as a "Software Development Studio," specializing in building scalable digital products for startups and enterprises.
+
+* **Founded:** December 2012.
+* **Headquarters:** Gandhinagar, Gujarat, India.
+* **Global Presence:** Offices and teams located in **India** (Gandhinagar, Bangalore, Pune), the **USA** (Dallas), and **Germany** (Berlin).
+* **Team Size:** 200+ full-time professionals.
+* **Market Focus:** Approximately 50% small businesses, 40% mid-market, and 10% enterprise clients.
+
+---
+
+## 🛠 Core Services & Expertise
+Zignuts provides end-to-end services, meaning they handle everything from the initial "napkin sketch" idea to post-launch maintenance.
+
+### 1. AI & Machine Learning (The 2026 Focus)
+They have heavily integrated AI into their core offerings:
+* **Predictive Analytics:** Forecasting trends and consumer behavior.
+* **NLP (Natural Language Processing):** Building advanced chatbots and sentiment analysis tools.
+* **Computer Vision:** Image and video processing for healthcare and retail.
+* **AI Agent Building:** Creating no-code or low-code AI agents for automated workflows.
+
+### 2. Product Engineering
+* **MVP Development:** Specifically tailored for startups to get to market quickly and raise funding.
+* **Mobile App Development:** Native (Swift, Kotlin) and Cross-platform (Flutter, React Native).
+* **Web Development:** High-performance web apps using React.js, Next.js, and Node.js.
+* **SaaS Development:** Building multi-tenant cloud architectures.
+
+### 3. Specialized Tech
+* **Blockchain & Web3:** Smart contracts, NFT marketplaces, and decentralized insurance platforms.
+* **IoT (Internet of Things):** Connecting hardware with mobile/web interfaces.
+* **Cloud & DevOps:** Infrastructure management primarily on AWS.
+
+---
+
+## 💻 Tech Stack
+They maintain a modern, "Javascript-heavy" stack, though they are polyglots depending on the project:
+
+| Category | Preferred Technologies |
+| :--- | :--- |
+| **Frontend** | React.js, Angular, Next.js, Vue.js |
+| **Backend** | Node.js (Express, Nest.js), Python (for AI), PHP (Laravel) |
+| **Mobile** | Flutter, React Native, Swift (iOS), Kotlin (Android) |
+| **Database** | MySQL, MongoDB, PostgreSQL |
+| **AI/ML** | GPT-4/GPT-O models, TensorFlow, PyTorch |
+| **Cloud** | AWS, Google Cloud, Azure |
+
+---
+
+## ⚙️ Engagement Models
+Zignuts is known for offering flexible ways to work, which is a major draw for international clients:
+* **Dedicated Development Team:** A hand-picked team that works exclusively for the client (best for long-term projects).
+* **Fixed-Price Projects:** Best for MVPs with a clearly defined scope.
+* **Time & Material:** Flexible billing based on the actual hours worked (best for evolving products).
+* **Staff Augmentation:** Providing specific developers to "plug into" an existing client team.
+
+---
+
+## 🌍 Industry Impact
+They have a diverse portfolio across multiple sectors, with a notable concentration in:
+* **Retail & E-commerce:** Marketplaces and delivery apps (e.g., Food & Grocery Tech).
+* **Fintech:** Accounting software, property portals, and insurance platforms.
+* **Healthcare:** Medical staffing solutions and appointment booking systems.
+* **Education:** VR-based learning platforms.
+
+---
+
+## 💡 Why They Stand Out
+* **Agile Methodology:** They use a sprint-based approach with transparent tracking via tools like **Jira, Slack, and Trello**.
+* **Startup DNA:** They emphasize building "market-ready" software, claiming their startup clients have raised millions in collective funding.
+* **High Retention:** They report a **97% client retention rate**, suggesting a high level of satisfaction with their post-launch support and communication.
+
+> **Pro-Tip:** If you are looking to contact them, they are primarily active on LinkedIn and through their main hub in Gandhinagar, which acts as their global delivery center.
+
+
+CEO and CGO is Gunjan kalariya
+CFO is Sagar bhayani
+CTO is parth trivedi
