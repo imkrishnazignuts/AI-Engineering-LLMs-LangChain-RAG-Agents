@@ -66,7 +66,7 @@ If no relevant data is found:
 
 @router.post('/ask')
 def ask_ai(query:str=Query(...)):
-    docs = vectorstore.similarity_search(query,k=100)
+    docs = vectorstore.similarity_search(query,k=5)
     context = "\n\n".join([doc.page_content for doc in docs])
     chain = prompt | llm | JsonOutputParser()
 
